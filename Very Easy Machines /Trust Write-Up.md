@@ -9,7 +9,7 @@ Enlace de descarga: https://mega.nz/file/UacxFKDR#G5KBHBt8ASB0lHPuttnaxKROAa40FM
 
 ## Montando el laboratorio
 
-Lo primero que deberemos hacer para practicar con esta máquina es, dirigirnos a la página de [dockerlabs](https://dockerlabs.es/) y descargarnos la máquina desde el [siguiente enlace].(https://mega.nz/file/UacxFKDR#G5KBHBt8ASB0lHPuttnaxKROAa40FMGrvBoIBf6ak0E). Una vez descargada, y descomprimida ejecutaremos el siguiente comando.
+Lo primero que deberemos hacer para practicar con esta máquina es, dirigirnos a la página de [dockerlabs](https://dockerlabs.es/) y descargarnos la máquina desde el [siguiente enlace](https://mega.nz/file/UacxFKDR#G5KBHBt8ASB0lHPuttnaxKROAa40FMGrvBoIBf6ak0E). Una vez descargada, y descomprimida ejecutaremos el siguiente comando.
 
 ```bash
 sudo bash auto_deploy.sh trust.tar
