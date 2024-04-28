@@ -19,7 +19,13 @@ Al ejecutar el comando, nos pedirá la contraseña. Al introducirla correctament
 
 ![Desplegando máquina Trust](https://github.com/h3g0c1v/DockerLabs-Machine-Write-Ups/assets/66705453/5642f3fd-086b-4791-b5a0-f55cebc58b81)
 
-Como podemos ver en la imagen anterior, la máquina está desplegada correctamente y su dirección IP es la **172.17.0.2**.
+Como podemos ver en la imagen anterior, la máquina está desplegada correctamente y su dirección IP es la **172.17.0.2**. Esto nos habrá montado la máquina vulnerable *Trust* a través de *docker*. 
+
+## Como eliminar la máquina vulnerable
+
+En caso de querer eliminarla, simplemente presionaremos en el teclado **CTRL** + **C** y la máquina se eliminará automáticamente.
+
+![Eliminando máquina Trust](https://github.com/h3g0c1v/DockerLabs-Machine-Write-Ups/assets/66705453/e80c6f86-622a-40c8-8d32-c98dd6845945)
 
 ## Comprobando la conectividad
 
