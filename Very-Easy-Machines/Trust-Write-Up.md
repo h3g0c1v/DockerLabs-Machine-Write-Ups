@@ -57,7 +57,7 @@ Ejecutamos el comando.
 
 ![Segundo nmap de la máquina Trust](https://github.com/h3g0c1v/DockerLabs-Machine-Write-Ups/assets/66705453/cefb37c9-8bf9-4783-bfd7-1e1d9c900118)
 
-En el resultado anterior detectamos que, bajo el puerto 22 está corriendo el protocolo **SSH** y en el puerto 80 **HTTP** siendo *Apache* el servicio utilizado. Antes de realizar ningún *fuzzing* de subdirectorios, con herramienta como `fuzz` o `gobuster` ejecutaremos el script *http-enum.nse* de `nmap` para ver si nos devuelve algo interesante.
+En el resultado anterior detectamos que, bajo el puerto 22 está corriendo el protocolo **SSH** y en el puerto 80 **HTTP** siendo *Apache* el servicio utilizado. Antes de realizar ningún *fuzzing* de subdirectorios, con herramientas como `fuzz` o `gobuster` ejecutaremos el script *http-enum.nse* de `nmap` para ver si nos devuelve algo interesante.
 
 ```bash
 sudo nmap --script=http-enum 172.17.0.2
