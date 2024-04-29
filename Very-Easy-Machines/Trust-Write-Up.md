@@ -2,7 +2,7 @@
 Nombre de la máquina: Trust
 Sistema Operativo: Linux
 Dificultad: Very Easy 🔵
-Skills: Web Enumeration, Hydra Brute Force, Abusing SUID
+Skills: Web Enumeration, Hydra Brute Force, Abusing sudoers
 Enlace de descarga: https://mega.nz/file/UacxFKDR#G5KBHBt8ASB0lHPuttnaxKROAa40FMGrvBoIBf6ak0E
 ---
 ---
