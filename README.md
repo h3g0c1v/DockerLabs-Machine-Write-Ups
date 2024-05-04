@@ -1,8 +1,6 @@
 # DockerLabs Machine Write-Ups
 
-In this repository I am going to upload some write-ups from the [dockerlabs](https://dockerlabs.es/) website, which has different vulnerable machines to exploit.
-
-At this moment I have the following machines:
+In this repository I am going to upload some write-ups from the [dockerlabs](https://dockerlabs.es/) website, which has different vulnerable machines to exploit. These vulnerable machines are mounted on docker, and accessed from our local machine. At this moment I have the following machines:
 
 - Very Easy Machines:
   - [Trust Write-Up](https://github.com/h3g0c1v/DockerLabs-Machine-Write-Ups/tree/main/Very%20Easy%20Machines%20).
