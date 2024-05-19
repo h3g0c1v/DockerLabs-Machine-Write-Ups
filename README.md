@@ -13,3 +13,4 @@ At the moment, the following write ups are available:
 
 - Medium Machines:
   - [LittlePivoting Write-Up](https://github.com/h3g0c1v/DockerLabs-Machine-Write-Ups/blob/main/Medium-Machines/LittlePivoting.md).
+  - [Domain Write-Up](https://github.com/h3g0c1v/DockerLabs-Machine-Write-Ups/blob/main/Medium-Machines/Domain.md)
