@@ -7,6 +7,7 @@ At the moment, the following write ups are available:
 - Very Easy Machines:
   - [Trust Write-Up](https://github.com/h3g0c1v/DockerLabs-Machine-Write-Ups/tree/main/Very%20Easy%20Machines%20).
   - [Upload Write-Up](https://github.com/h3g0c1v/DockerLabs-Machine-Write-Ups/blob/main/Very-Easy-Machines/Upload-Write-Up.md).
+  - [Vacaciones Write-Up](https://github.com/h3g0c1v/DockerLabs-Machine-Write-Ups/blob/main/Very-Easy-Machines/Vacaciones-Write-Up.md)
 
 - Easy Machines:
   - [WalkingCMS Write-Up](https://github.com/h3g0c1v/DockerLabs-Machine-Write-Ups/blob/main/Easy-Machines/WalkingCMS.md).
